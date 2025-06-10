@@ -95,7 +95,7 @@ Total Minimum Transportation Cost: ₹810.0
 A simple diagram showing warehouse-to-customer flow based on our optimization output.
 
 visual plot of optimized delivery routes is ready:
-
+![Image](https://github.com/user-attachments/assets/25edd6a5-cd28-4f18-8a2d-f13c3fe21240)
 
 ---
 ## 📊 Business Insights
